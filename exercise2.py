@@ -1,3 +1,4 @@
+# operators
 principal = 240_000
 annual_rate = 0.05
 years = 2
