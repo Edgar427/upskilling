@@ -6,6 +6,7 @@ total_expenses = {
 
 total_expenses.update({"entertainment":20 })
 # total_expenses["entertainment"] = total_expenses.get("entertainment", 0) + 20
+total_expenses["entertainment"] = 20
 
 total_expenses["food"] += 12 
 # total_expenses["food"] = total_expenses.get("food", 0) + 12  
