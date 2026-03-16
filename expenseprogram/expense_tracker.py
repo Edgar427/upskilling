@@ -9,10 +9,10 @@ def main():
     budget = 2000
 
     print(f"Running expense tracker")
-    #expense = get_user_expense()
-    #print(expense)
+    expense = get_user_expense()
+    print(expense)
 
-    #save_expense(expense, expense_file_path)
+    save_expense(expense, expense_file_path)
 
     summarize_expense(budget, expense_file_path)
 
